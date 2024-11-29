@@ -12,7 +12,7 @@ def countFrequency(sentence):
 # end def
 
 
-sentence = "lambda  rangesad asciiwhile, cherry ascii(object : set a = ('b', 'g', 'a', 'd', 'f', 'c', 'h', 'e')"
+sentence = "sentence that i need to write is not the sentence i am going to write. bahahahahaha"
 
 
     # comment: 
